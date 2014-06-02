@@ -1,0 +1,9 @@
+# fullercv
+
+This is a LaTeX template for a simple curriculum vitæ. It is based on the
+*classic* style of the [moderncv](http://www.ctan.org/pkg/moderncv) package.
+
+# Dependencies
+
+ * A usable LaTeX instance.
+ * The [moderncv](http://www.ctan.org/pkg/moderncv) package.
